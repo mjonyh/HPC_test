@@ -16,3 +16,6 @@ f(x)=4/(1+x^2), so PI is the integral of f(x) from 0 to 1.
 Then PI can be easily caculated using trapezoid rule.
 
 ### Method 3: using Monte Carlo method
+
+This code is collected from https://github.com/kiwenlau/MPI_PI
+and modified for my cluster system
